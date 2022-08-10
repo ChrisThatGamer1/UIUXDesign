@@ -107,3 +107,14 @@ a {
   color: #e9e6e6c7;
   /* #bebcbc */
 }
+
+/* remove the li bullet pointers */
+/* li {
+  list-style: none;
+  width: 650px;
+  padding-right: 300px;
+} */
+
+.experience-text {
+  text-indent: 3px;
+}
