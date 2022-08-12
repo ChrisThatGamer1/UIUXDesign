@@ -86,7 +86,7 @@ a {
   padding-left: 10px;
 }
 
-/* media queres */
+/* media query */
 @media (max-width: 780px) {
   .grid-2 {
     grid-template-columns: 1fr;
@@ -109,11 +109,6 @@ a {
 }
 
 /* remove the li bullet pointers */
-/* li {
-  list-style: none;
-  width: 650px;
-  padding-right: 300px;
-} */
 
 .experience-text {
   text-indent: 3px;
